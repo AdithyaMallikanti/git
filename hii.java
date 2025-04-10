@@ -1,4 +1,4 @@
-public class hii
+ class hii
 {
     public static void main (String arg[])
     {
