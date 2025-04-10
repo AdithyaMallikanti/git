@@ -1,0 +1,6 @@
+Name	Type	Size
+file3	text	789
+file2	image	456
+file1	text	123
+dir2	folder	-
+dir1	folder	-
